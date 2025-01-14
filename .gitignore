@@ -1,0 +1,8 @@
+#all parquet files exclude
+*.parquet
+*.nc
+*.png
+*.csv
+*.jpg
+
+
